@@ -23,6 +23,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
   - [File Operations](#file-operations)
   - [Languages (oh boy)](#languages-oh-boy)
   - [Note-taking](#note-taking)
+  - [Operating Systems](#operating-systems)
   - [Package \& Version Managers](#package--version-managers)
   - [Process Management](#process-management)
   - [Productivity](#productivity)
@@ -76,6 +77,9 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 ## Note-taking
 - [Evernote](https://evernote.com/) -> [Notion](https://www.notion.com/product) -> [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
 - [Joplin](https://github.com/laurent22/joplin) -> [Obsidian](https://obsidian.md/) -> [Logseq](https://github.com/logseq/logseq)
+
+## Operating Systems
+- [Debian](https://www.debian.org/)* -> [Arch Linux](https://archlinux.org/)* -> [NixOS](https://nixos.org/)*
 
 ## Package & Version Managers
 - [npm](https://github.com/npm/cli) -> [yarn](https://github.com/yarnpkg/yarn) -> [pnpm](https://github.com/pnpm/pnpm) -> [bun](https://github.com/oven-sh/bun)
