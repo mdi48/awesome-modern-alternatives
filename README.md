@@ -34,6 +34,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
   - [Terminal Emulators](#terminal-emulators)
   - [Text Editors \& IDEs](#text-editors--ides)
   - [Universal Package Formats](#universal-package-formats)
+  - [Virtualization](#virtualization)
   - [Web Frameworks](#web-frameworks)
   - [Widget Systems](#widget-systems)
   - [Window Managers \& Compositors](#window-managers--compositors)
@@ -124,7 +125,11 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 ## Universal Package Formats
 - [Snaps](https://snapcraft.io/about) -> [AppImages](https://appimage.org/) -> [Flatpak](https://flatpak.org/) -> [Nixpkgs](https://nixos.wiki/wiki/Nixpkgs)*
 
+## Virtualization
+- [VirtualBox](https://www.virtualbox.org/) -> [QEMU](https://www.qemu.org/)
+
 ## Web Frameworks
+- [AngularJS](https://angularjs.org/) -> [React](https://react.dev/) -> [Svelte](https://svelte.dev/), [SolidJS](https://www.solidjs.com/)
 - [Django](https://github.com/django/django), [Flask](https://github.com/pallets/flask) -> [FastAPI](https://github.com/fastapi/fastapi)
 - [Rails](https://github.com/rails/rails) -> [Phoenix](https://github.com/phoenixframework/phoenix)
 
