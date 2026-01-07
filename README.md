@@ -28,6 +28,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
   - [Productivity](#productivity)
   - [Search Engines](#search-engines)
   - [Search/Find](#searchfind)
+  - [Social Media](#social-media)
   - [Static Site Generators](#static-site-generators)
   - [Terminal Emulators](#terminal-emulators)
   - [Universal Package Formats](#universal-package-formats)
@@ -90,6 +91,11 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 - [find](https://man7.org/linux/man-pages/man1/find.1.html) -> [fd](https://github.com/sharkdp/fd)
 - [grep](https://man7.org/linux/man-pages/man1/grep.1.html) -> [ripgrep](https://github.com/BurntSushi/ripgrep)*
 - [locate](https://man7.org/linux/man-pages/man1/locate.1.html) -> [plocate](https://plocate.sesse.net/)
+
+## Social Media
+- The App Formerly Known as Twitter -> [Bluesky](https://bsky.social/about) -> [Mastodon](https://joinmastodon.org/)
+- [Reddit](https://redditinc.com/) -> [Lemmy](https://join-lemmy.org/)
+- [YouTube](https://about.youtube/) -> [PeerTube](https://joinpeertube.org/)
 
 ## Static Site Generators
 - [Jekyll](https://github.com/jekyll/jekyll) -> [Hugo](https://github.com/gohugoio/hugo)*, [Zola](https://github.com/getzola/zola)
