@@ -46,9 +46,13 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 - [balenaEtcher](https://etcher.balena.io/) -> [Rufus](https://github.com/pbatard/rufus) -> [Ventoy](https://github.com/ventoy/Ventoy)*
 - [dd](https://www.man7.org/linux/man-pages/man1/dd.1.html) -> [caligula](https://github.com/ifd3f/caligula)
 
+*Rufus is much faster and more feature-rich than balenaEtcher is, though it is sadly a Windows only tool. Ventoy is even better as it allows you to store multiple isos on a single drive and just drag-and-drop them onto it rather than reformatting every time. Great way to save time and money.*
+
+*caligula is essentially a simplified dd that removes all the hassle involved with it while also offering a super helpful feature that checks for the SIG automatically if you have it. It's also fast. Not as handy as Ventoy due to still taking up the whole flash drive, but handy if you like TUI-based tools*
+
 ## Bootloaders
-- [GRUB](https://www.gnu.org/software/grub/grub.html) -> [systemd-boot](https://systemd.io/BOOT/)* -> 
-[rEFInd](https://www.rodsbooks.com/refind/) -> [Limine](https://codeberg.org/Limine/Limine)*
+- [GRUB](https://www.gnu.org/software/grub/grub.html) -> [systemd-boot](https://systemd.io/BOOT/)* -> [rEFInd](https://www.rodsbooks.com/refind/) -> [Limine](https://codeberg.org/Limine/Limine)*
+
 
 ## Email Clients
 - [mutt](https://github.com/muttmua/mutt) -> [neomutt](https://github.com/neomutt/neomutt), [aerc](https://github.com/rjarry/aerc)
