@@ -32,6 +32,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
   - [Social Media](#social-media)
   - [Static Site Generators](#static-site-generators)
   - [Terminal Emulators](#terminal-emulators)
+  - [Text Editors \& IDEs](#text-editors--ides)
   - [Universal Package Formats](#universal-package-formats)
   - [Web Frameworks](#web-frameworks)
   - [Widget Systems](#widget-systems)
@@ -82,6 +83,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 - [Debian](https://www.debian.org/)* -> [Arch Linux](https://archlinux.org/)* -> [NixOS](https://nixos.org/)*
 
 *Now I mean no insult here, as these are the best distros overall imo. Debian is old, and it is undeniably a boomer OS. It takes a long time between releases and the packages are frequently out of date, but it just. Damn. Works. It's like the Toyota Corolla or the Honda Accord of Linux distros: it will last you a lifetime and never fail. Arch is the cool kid of the current day and is completely different: it's like the wild west, everything is constantly changing and you never know what will happen. But that's why it's great: you get the freshest of fresh software right out of the oven, and there's so many packages in the repo + AUR that it's insane. It's also the best distro to use to really learn about Linux as a whole, and you never have to worry about updates thanks to the rolling release model. Finally, there's the cool kid of the future: NixOS. If Debian is a Corolla, NixOS is like some futuristic vehicle that requires a PhD to operate. It's both stable as hell and has tons of fresh packages, but it's arcane knowledge for only the bravest of souls.*
+
 ## Package & Version Managers
 - [npm](https://github.com/npm/cli) -> [yarn](https://github.com/yarnpkg/yarn) -> [pnpm](https://github.com/pnpm/pnpm) -> [bun](https://github.com/oven-sh/bun)
 - [pip](https://pip.pypa.io/en/stable/) -> [conda](https://docs.conda.io/projects/conda/en/stable/) -> [uv](https://github.com/astral-sh/uv)
@@ -113,6 +115,11 @@ of stuff that is easier to use does not mean we should ditch old things entirely
   
 ## Terminal Emulators
 - [Konsole](https://github.com/KDE/konsole), etc. -> [Alacritty](https://github.com/alacritty/alacritty) -> [Kitty](https://github.com/kovidgoyal/kitty), [Wezterm](https://github.com/wezterm/wezterm), [Ghostty](https://github.com/ghostty-org/ghostty)*, [Rio](https://github.com/raphamorim/rio)
+
+## Text Editors & IDEs
+- [Atom](https://atom-editor.cc/) -> [VSCode](https://code.visualstudio.com/) -> [Zed](https://zed.dev/) -> [Lapce](https://github.com/lapce/lapce)
+- [nano](https://www.nano-editor.org/) -> [micro](https://github.com/zyedidia/micro)
+- [vi](https://ex-vi.sourceforge.net/) -> [vim](https://www.vim.org/) -> [neovim](https://neovim.io/)
 
 ## Universal Package Formats
 - [Snaps](https://snapcraft.io/about) -> [AppImages](https://appimage.org/) -> [Flatpak](https://flatpak.org/) -> [Nixpkgs](https://nixos.wiki/wiki/Nixpkgs)*
