@@ -76,6 +76,12 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 - [Google Chrome](https://www.google.com/chrome/) -> [Brave](https://brave.com/), [Chromium](https://www.chromium.org/Home/)
 - [Opera](https://www.opera.com/) -> [Vivaldi](https://vivaldi.com/)
 
+*Firefox was for a long time the king of browsers so I cannot help but have some degree of bias towards it here, but I fear that it will almost certainly have its star removed if they keep doing this shit :(. Out of the three alternatives I've provided, Zen is my favourite, and my current daily driver. It respects your privacy while also providing a first class UI (I'm all-in on vertical tabs being the future!), though I do wish it wasn't quite as much a memory hog (it also doesn't have a Widevine license on Windows and Mac so it can't play DRM-protected content there atm, but for something less than two years old and still in beta its insane.)*
+
+*We all know about Brave and (Ungoogled) Chromium already so there's not much to say. I do wish that Brave wasn't so eager to push web3 shit, but they do actually have legitimately good privacy measures that place them among the better browsers*
+
+*Opera hasn't really been a huge deal for a while now, but Vivaldi is pretty cool and offers a solid amount of customization options. I like the UI a lot too.*
+
 ## Databases
 - [MySQL](https://www.mysql.com/) -> [MariaDB](https://mariadb.org/)
 - [PostgreSQL](https://www.postgresql.org/)* -> [CockroachDB](https://github.com/cockroachdb/cockroach), [YugabyteDB](https://github.com/yugabyte/yugabyte-db)
