@@ -77,7 +77,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 - [ls](https://man7.org/linux/man-pages/man1/ls.1.html) -> [eza](https://github.com/eza-community/eza), [lsd](https://github.com/lsd-rs/lsd)
 
 ## Keyboards
-- [QWERTY](https://en.wikipedia.org/wiki/QWERTY) -> [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) -> [Colemak](https://colemak.com/)
+- [QWERTY](https://en.wikipedia.org/wiki/QWERTY) -> [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) -> [Colemak](https://colemak.com/) -> [Colemak-DH](https://colemakmods.github.io/mod-dh/)
 
 ## Languages (oh boy)
 - [Erlang](https://www.erlang.org/) -> [Elixir](https://elixir-lang.org/)
