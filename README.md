@@ -30,6 +30,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
   - [Package \& Version Managers](#package--version-managers)
   - [Process Management](#process-management)
   - [Productivity](#productivity)
+  - [Screen Recording](#screen-recording)
   - [Search Engines](#search-engines)
   - [Search/Find](#searchfind)
   - [Shells](#shells)
@@ -121,6 +122,9 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 - [cd](https://man7.org/linux/man-pages/man1/cd.1p.html) spam -> [zoxide](https://github.com/ajeetdsouza/zoxide)*
 - [fzf](https://github.com/junegunn/fzf) -> [skim](https://github.com/skim-rs/skim)
 - [man](https://man7.org/linux/man-pages/man1/man.1.html) -> [tldr](https://github.com/tldr-pages/tldr) -> [cheat.sh](https://github.com/chubin/cheat.sh)*
+
+## Screen Recording
+- [Fraps](https://fraps.com/) -> [Bandicam](https://www.bandicam.com/) -> [OBS Studio](https://obsproject.com/)
 
 ## Search Engines
 - [Google](https://search.google/) -> [DuckDuckGo](https://duckduckgo.com/app/unsupported) -> [SearXNG](https://github.com/searxng/searxng) -> [Kagi](https://kagi.com/)
