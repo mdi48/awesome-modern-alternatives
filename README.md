@@ -18,6 +18,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
   - [Api Testing](#api-testing)
   - [Bootable USB Creation](#bootable-usb-creation)
   - [Bootloaders](#bootloaders)
+  - [Databases](#databases)
   - [Diagramming](#diagramming)
   - [Email Clients](#email-clients)
   - [File Managers](#file-managers)
@@ -62,6 +63,11 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 - [GRUB](https://www.gnu.org/software/grub/grub.html) -> [systemd-boot](https://systemd.io/BOOT/)* -> [rEFInd](https://www.rodsbooks.com/refind/) -> [Limine](https://codeberg.org/Limine/Limine)*
 
 *Nothing wrong here of course, but GRUB has been around for so long that it almost feels like some sort of pagan wizardry rather than a modern software tool. It's everything and the kitchen sink, which ain't always a good thing. systemd-boot is something I'm really glad exists because while it's nothing fancy, it's broadly compatible and super fast and simple. An excellent option for Linux newcomers. rEFInd is one I'm admittedly less familiar with, but it does have very nice customization options for those ricers, and it's great for people who need to dual boot. Limine is my current fave - offering nice customization options, the ability to chainload other bootloaders, and out-of-the-box snapshotting. It even supports both UEFI and BIOS!*
+
+## Databases
+- [MySQL](https://www.mysql.com/) -> [MariaDB](https://mariadb.org/)
+- [PostgreSQL](https://www.postgresql.org/)* -> [CockroachDB](https://github.com/cockroachdb/cockroach), [YugabyteDB](https://github.com/yugabyte/yugabyte-db)
+  
 
 ## Diagramming
 - [draw.io](https://www.drawio.com/) -> [Excalidraw](https://github.com/excalidraw/excalidraw) -> [Mermaid](https://github.com/mermaid-js/mermaid)
