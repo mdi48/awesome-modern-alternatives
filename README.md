@@ -151,7 +151,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 - [locate](https://man7.org/linux/man-pages/man1/locate.1.html) -> [plocate](https://plocate.sesse.net/)
 
 ## Security/Privacy
-- [LastPass](https://www.lastpass.com/) -> [Bitwarden](https://bitwarden.com/)
+- [LastPass](https://www.lastpass.com/) -> [Bitwarden](https://bitwarden.com/) -> [Vaultwarden](https://github.com/dani-garcia/vaultwarden)
 
 ## Shells
 - [sh](https://en.wikipedia.org/wiki/Bourne_shell) -> [Bash](https://www.gnu.org/software/bash/) -> [Zsh](https://en.wikipedia.org/wiki/Z_shell)
