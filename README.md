@@ -35,6 +35,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
   - [Social Media](#social-media)
   - [Static Site Generators](#static-site-generators)
   - [Terminal Emulators](#terminal-emulators)
+  - [Terminal Multiplexers](#terminal-multiplexers)
   - [Testing](#testing)
   - [Text Editors \& IDEs](#text-editors--ides)
   - [Universal Package Formats](#universal-package-formats)
@@ -130,6 +131,9 @@ of stuff that is easier to use does not mean we should ditch old things entirely
   
 ## Terminal Emulators
 - [Konsole](https://github.com/KDE/konsole), etc. -> [Alacritty](https://github.com/alacritty/alacritty) -> [Kitty](https://github.com/kovidgoyal/kitty), [Wezterm](https://github.com/wezterm/wezterm), [Ghostty](https://github.com/ghostty-org/ghostty)*, [Rio](https://github.com/raphamorim/rio)
+
+## Terminal Multiplexers
+- [GNU Screen](https://www.gnu.org/software/screen/) -> [tmux](https://github.com/tmux/tmux/wiki) -> [Zellij](https://zellij.dev/)
 
 ## Testing
 - [Jest](https://jestjs.io/) -> [Vitest](https://vitest.dev/) -> [Bun test](https://bun.sh/docs/test)
