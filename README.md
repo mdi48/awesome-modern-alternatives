@@ -70,8 +70,11 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 ## Email Clients
 - [mutt](https://github.com/muttmua/mutt) -> [neomutt](https://github.com/neomutt/neomutt), [aerc](https://github.com/rjarry/aerc)
 - [Thunderbird](https://www.thunderbird.net/en-US/) -> [Betterbird](https://www.betterbird.eu/)
+
+
 ## File Managers
-- [ranger](https://github.com/ranger/ranger) -> [lf](https://github.com/gokcehan/lf) -> [superfile](https://github.com/yorukot/superfile) -> [yazi](https://github.com/sxyazi/yazi)*
+- [Midnight Commander](https://midnight-commander.org/) -> [ranger](https://github.com/ranger/ranger) -> [lf](https://github.com/gokcehan/lf), [nnn](https://github.com/jarun/nnn) -> [superfile](https://github.com/yorukot/superfile) -> [yazi](https://github.com/sxyazi/yazi)*
+
 
 ## File Operations
 - [cat](https://man7.org/linux/man-pages/man1/cat.1.html) -> [bat](https://github.com/sharkdp/bat)*
