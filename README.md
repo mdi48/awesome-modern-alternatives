@@ -18,6 +18,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
   - [Api Testing](#api-testing)
   - [Bootable USB Creation](#bootable-usb-creation)
   - [Bootloaders](#bootloaders)
+  - [Browsers](#browsers)
   - [Databases](#databases)
   - [Diagramming](#diagramming)
   - [Email Clients](#email-clients)
@@ -66,6 +67,11 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 - [GRUB](https://www.gnu.org/software/grub/grub.html) -> [systemd-boot](https://systemd.io/BOOT/)* -> [rEFInd](https://www.rodsbooks.com/refind/) -> [Limine](https://codeberg.org/Limine/Limine)*
 
 *Nothing wrong here of course, but GRUB has been around for so long that it almost feels like some sort of pagan wizardry rather than a modern software tool. It's everything and the kitchen sink, which ain't always a good thing. systemd-boot is something I'm really glad exists because while it's nothing fancy, it's broadly compatible and super fast and simple. An excellent option for Linux newcomers. rEFInd is one I'm admittedly less familiar with, but it does have very nice customization options for those ricers, and it's great for people who need to dual boot. Limine is my current fave - offering nice customization options, the ability to chainload other bootloaders, and out-of-the-box snapshotting. It even supports both UEFI and BIOS!*
+
+## Browsers
+- [Firefox](https://www.firefox.com/en-US/)* -> [LibreWolf](https://librewolf.net/), [Waterfox](https://www.waterfox.com/), [Zen](https://zen-browser.app/)*
+- [Google Chrome](https://www.google.com/chrome/) -> [Brave](https://brave.com/), [Chromium](https://www.chromium.org/Home/)
+- [Opera](https://www.opera.com/) -> [Vivaldi](https://vivaldi.com/)
 
 ## Databases
 - [MySQL](https://www.mysql.com/) -> [MariaDB](https://mariadb.org/)
