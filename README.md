@@ -130,7 +130,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 - [Jekyll](https://github.com/jekyll/jekyll) -> [Hugo](https://github.com/gohugoio/hugo)*, [Zola](https://github.com/getzola/zola)
   
 ## Terminal Emulators
-- [Konsole](https://github.com/KDE/konsole), etc. -> [Alacritty](https://github.com/alacritty/alacritty) -> [Kitty](https://github.com/kovidgoyal/kitty), [Wezterm](https://github.com/wezterm/wezterm), [Ghostty](https://github.com/ghostty-org/ghostty)*, [Rio](https://github.com/raphamorim/rio)
+- [xterm](https://invisible-island.net/xterm/) -> [Konsole](https://github.com/KDE/konsole), etc. -> [Alacritty](https://github.com/alacritty/alacritty) -> [Kitty](https://github.com/kovidgoyal/kitty), [Wezterm](https://github.com/wezterm/wezterm), [Ghostty](https://github.com/ghostty-org/ghostty)*, [Rio](https://github.com/raphamorim/rio)
 
 ## Terminal Multiplexers
 - [GNU Screen](https://www.gnu.org/software/screen/) -> [tmux](https://github.com/tmux/tmux/wiki) -> [Zellij](https://zellij.dev/)
