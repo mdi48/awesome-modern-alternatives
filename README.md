@@ -105,6 +105,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 ## Languages (oh boy)
 - [Erlang](https://www.erlang.org/) -> [Elixir](https://elixir-lang.org/)
 - [Java](https://openjdk.org/) -> [Kotlin](https://kotlinlang.org/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) -> [TypeScript](https://www.typescriptlang.org/)
 - [Node.js](https://nodejs.org/en) -> [Deno](https://deno.com/) -> [Bun](https://bun.com/)
 - [Perl](https://www.perl.org/) -> [Raku](https://raku.org/)
 
