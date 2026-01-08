@@ -26,6 +26,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
   - [File Operations](#file-operations)
   - [Keyboards](#keyboards)
   - [Languages (oh boy)](#languages-oh-boy)
+  - [Networking Tools](#networking-tools)
   - [Note-taking](#note-taking)
   - [Operating Systems](#operating-systems)
   - [Package \& Version Managers](#package--version-managers)
@@ -112,6 +113,9 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 - [Node.js](https://nodejs.org/en) -> [Deno](https://deno.com/) -> [Bun](https://bun.com/)
 - [Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) -> [Swift](https://www.swift.org/)
 - [Perl](https://www.perl.org/) -> [Raku](https://raku.org/)
+
+## Networking Tools
+- [ping](https://www.man7.org/linux/man-pages/man8/ping.8.html) -> [gping](https://github.com/orf/gping)
 
 ## Note-taking
 - [Evernote](https://evernote.com/) -> [Notion](https://www.notion.com/product) -> [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
