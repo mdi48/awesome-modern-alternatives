@@ -138,7 +138,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 - [cd](https://man7.org/linux/man-pages/man1/cd.1p.html) spam -> [zoxide](https://github.com/ajeetdsouza/zoxide)*
 - [du](https://www.man7.org/linux/man-pages/man1/du.1.html) -> [dust](https://github.com/bootandy/dust)
 - [fzf](https://github.com/junegunn/fzf) -> [skim](https://github.com/skim-rs/skim)
-- [man](https://man7.org/linux/man-pages/man1/man.1.html) -> [tldr](https://github.com/tldr-pages/tldr) -> [cheat.sh](https://github.com/chubin/cheat.sh)*
+- [man](https://man7.org/linux/man-pages/man1/man.1.html) -> [tldr](https://github.com/tldr-pages/tldr) -> [tealdeer](https://github.com/tealdeer-rs/tealdeer) -> [cheat.sh](https://github.com/chubin/cheat.sh)*
 
 ## Reverse Proxies
 - [Port forwarding](https://en.wikipedia.org/wiki/Port_forwarding) -> [Apache](https://httpd.apache.org/) -> [Nginx](https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/) -> [Caddy](https://caddyserver.com/)
