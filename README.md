@@ -68,6 +68,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 ## Databases
 - [MySQL](https://www.mysql.com/) -> [MariaDB](https://mariadb.org/)
 - [PostgreSQL](https://www.postgresql.org/)* -> [CockroachDB](https://github.com/cockroachdb/cockroach), [YugabyteDB](https://github.com/yugabyte/yugabyte-db)
+- [SQLite](https://sqlite.org/) -> [DuckDB](https://www.duckdb.org/)
   
 
 ## Diagramming
