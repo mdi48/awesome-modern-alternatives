@@ -32,6 +32,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
   - [Process Management](#process-management)
   - [Productivity](#productivity)
   - [Reverse Proxies](#reverse-proxies)
+  - [RSS Readers](#rss-readers)
   - [Screen Recording](#screen-recording)
   - [Search Engines](#search-engines)
   - [Search/Find](#searchfind)
@@ -138,6 +139,8 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 ## Reverse Proxies
 - [Port forwarding](https://en.wikipedia.org/wiki/Port_forwarding) -> [Apache](https://httpd.apache.org/) -> [Nginx](https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/) -> [Caddy](https://caddyserver.com/)
 
+## RSS Readers
+- [Google Reader (RIP)](https://en.wikipedia.org/wiki/Google_Reader) -> [The Old Reader](https://www.theoldreader.com/en/) -> [Feedly](https://feedly.com/) -> [RSSHub](https://github.com/DIYgod/RSSHub), [Newsboat](https://newsboat.org/)*
 
 ## Screen Recording
 - [Fraps](https://fraps.com/) -> [Bandicam](https://www.bandicam.com/) -> [OBS Studio](https://obsproject.com/)
