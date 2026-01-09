@@ -19,6 +19,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
   - [Bootable USB Creation](#bootable-usb-creation)
   - [Bootloaders](#bootloaders)
   - [Browsers](#browsers)
+  - [Config Management](#config-management)
   - [Databases](#databases)
   - [Diagramming](#diagramming)
   - [Email Clients](#email-clients)
@@ -81,6 +82,10 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 *We all know about Brave and (Ungoogled) Chromium already so there's not much to say. I do wish that Brave wasn't so eager to push web3 shit, but they do actually have legitimately good privacy measures that place them among the better browsers*
 
 *Opera hasn't really been a huge deal for a while now, but Vivaldi is pretty cool and offers a solid amount of customization options. I like the UI a lot too.*
+
+## Config Management
+- [GNU Stow](https://www.gnu.org/software/stow/) -> [Chezmoi](https://www.chezmoi.io/)*, [yadm](https://yadm.io/) -> [Nix Home Manager](https://nix-community.github.io/home-manager/)\*
+
 
 ## Databases
 - [MySQL](https://www.mysql.com/) -> [MariaDB](https://mariadb.org/)
