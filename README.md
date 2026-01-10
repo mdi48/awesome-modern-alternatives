@@ -147,6 +147,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 
 ## Productivity
 - [cd](https://man7.org/linux/man-pages/man1/cd.1p.html) spam -> [zoxide](https://github.com/ajeetdsouza/zoxide)*
+- [ctrl + r](https://linuxvox.com/blog/ctrl-r-linux/) -> [fzf](https://github.com/junegunn/fzf) -> [atuin](https://github.com/atuinsh/atuin)
 - [du](https://www.man7.org/linux/man-pages/man1/du.1.html) -> [dust](https://github.com/bootandy/dust)
 - [fzf](https://github.com/junegunn/fzf) -> [skim](https://github.com/skim-rs/skim)
 - [man](https://man7.org/linux/man-pages/man1/man.1.html) -> [tldr](https://github.com/tldr-pages/tldr) -> [tealdeer](https://github.com/tealdeer-rs/tealdeer) -> [cheat.sh](https://github.com/chubin/cheat.sh)*
