@@ -16,6 +16,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 
 - [awesome-new-and-improved ](#awesome-new-and-improved-)
   - [Api Testing](#api-testing)
+  - [App Launchers](#app-launchers)
   - [Books \& Personal Libraries](#books--personal-libraries)
   - [Bootable USB Creation](#bootable-usb-creation)
   - [Bootloaders](#bootloaders)
@@ -60,6 +61,9 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 
 ## Api Testing
 - [Postman](https://www.postman.com/) -> [Bruno](https://github.com/usebruno/bruno)
+
+## App Launchers
+- [rofi](https://github.com/davatorium/rofi) -> [wofi](https://hg.sr.ht/~scoopta/wofi) -> [Walker](https://walkerlauncher.com/), [Vicinae](https://github.com/vicinaehq/vicinae)
 
 ## Books & Personal Libraries
 - [LibraryThing](https://www.librarything.com/) -> [Goodreads](https://www.goodreads.com/) -> [The StoryGraph](https://thestorygraph.com/), [Hardcover](https://thestorygraph.com/)
