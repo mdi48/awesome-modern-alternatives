@@ -16,7 +16,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 
 - [awesome-new-and-improved ](#awesome-new-and-improved-)
   - [Api Testing](#api-testing)
-  - [Books and Personal Libraries](#books-and-personal-libraries)
+  - [Books \& Personal Libraries](#books--personal-libraries)
   - [Bootable USB Creation](#bootable-usb-creation)
   - [Bootloaders](#bootloaders)
   - [Browsers](#browsers)
@@ -60,7 +60,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 ## Api Testing
 - [Postman](https://www.postman.com/) -> [Bruno](https://github.com/usebruno/bruno)
 
-## Books and Personal Libraries
+## Books & Personal Libraries
 - [LibraryThing](https://www.librarything.com/) -> [Goodreads](https://www.goodreads.com/) -> [The StoryGraph](https://thestorygraph.com/), [Hardcover](https://thestorygraph.com/)
 
 ## Bootable USB Creation
@@ -129,6 +129,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 - [Node.js](https://nodejs.org/en) -> [Deno](https://deno.com/) -> [Bun](https://bun.com/)
 - [Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) -> [Swift](https://www.swift.org/)
 - [Perl](https://www.perl.org/) -> [Raku](https://raku.org/)
+- [Python](https://www.python.org/) -> [Julia](https://julialang.org/)
 
 ## Networking Tools
 - [ping](https://www.man7.org/linux/man-pages/man8/ping.8.html) -> [gping](https://github.com/orf/gping)
