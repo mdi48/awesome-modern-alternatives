@@ -16,6 +16,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 
 - [awesome-new-and-improved ](#awesome-new-and-improved-)
   - [Api Testing](#api-testing)
+  - [Books and Personal Libraries](#books-and-personal-libraries)
   - [Bootable USB Creation](#bootable-usb-creation)
   - [Bootloaders](#bootloaders)
   - [Browsers](#browsers)
@@ -58,6 +59,9 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 
 ## Api Testing
 - [Postman](https://www.postman.com/) -> [Bruno](https://github.com/usebruno/bruno)
+
+## Books and Personal Libraries
+- [LibraryThing](https://www.librarything.com/) -> [Goodreads](https://www.goodreads.com/) -> [The StoryGraph](https://thestorygraph.com/), [Hardcover](https://thestorygraph.com/)
 
 ## Bootable USB Creation
 - [balenaEtcher](https://etcher.balena.io/) -> [Rufus](https://github.com/pbatard/rufus) -> [Ventoy](https://github.com/ventoy/Ventoy)*
