@@ -101,6 +101,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 - [Redis](https://redis.io/) -> [Valkey](https://valkey.io/), [Dragonfly](https://www.dragonflydb.io/)
 
 ## Dev Tools
+- [Docker](https://www.docker.com/) -> [Podman](https://podman.io/)
 - [git (bare)](https://git-scm.com/) -> [tig](https://jonas.github.io/tig/) -> [lazygit](https://github.com/jesseduffield/lazygit)
 
 ## Diagramming
