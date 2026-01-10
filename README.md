@@ -130,6 +130,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 - [Node.js](https://nodejs.org/en) -> [Deno](https://deno.com/) -> [Bun](https://bun.com/)
 - [Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) -> [Swift](https://www.swift.org/)
 - [Perl](https://www.perl.org/) -> [Raku](https://raku.org/)
+- [Ruby](https://www.ruby-lang.org/en/) -> [Crystal](https://crystal-lang.org/)
 
 ## Networking Tools
 - [ping](https://www.man7.org/linux/man-pages/man8/ping.8.html) -> [gping](https://github.com/orf/gping)
