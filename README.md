@@ -118,6 +118,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 - [QWERTY](https://en.wikipedia.org/wiki/QWERTY) -> [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) -> [Colemak](https://colemak.com/) -> [Colemak-DH](https://colemakmods.github.io/mod-dh/)*
 
 ## Languages (oh boy)
+- [C](https://www.c-language.org/) -> [Rust](https://rust-lang.org/) (AAAAAAHHHHHHH I WENT THERE)
 - [Erlang](https://www.erlang.org/) -> [Elixir](https://elixir-lang.org/)
 - [Java](https://openjdk.org/) -> [Kotlin](https://kotlinlang.org/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) -> [TypeScript](https://www.typescriptlang.org/)
