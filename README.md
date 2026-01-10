@@ -22,6 +22,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
   - [Browsers](#browsers)
   - [Config Management](#config-management)
   - [Databases](#databases)
+  - [Dev Tools](#dev-tools)
   - [Diagramming](#diagramming)
   - [Email Clients](#email-clients)
   - [File Managers](#file-managers)
@@ -98,7 +99,9 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 - [Cassandra](https://cassandra.apache.org/_/index.html) -> [ScyllaDB](https://www.scylladb.com/)
 - [CouchDB](https://couchdb.apache.org/) -> [MongoDB](https://www.mongodb.com/)
 - [Redis](https://redis.io/) -> [Valkey](https://valkey.io/), [Dragonfly](https://www.dragonflydb.io/)
-  
+
+## Dev Tools
+- [git (bare)](https://git-scm.com/) -> [tig](https://jonas.github.io/tig/) -> [lazygit](https://github.com/jesseduffield/lazygit)
 
 ## Diagramming
 - [draw.io](https://www.drawio.com/) -> [Excalidraw](https://github.com/excalidraw/excalidraw) -> [Mermaid](https://github.com/mermaid-js/mermaid)
