@@ -63,6 +63,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 - [Postman](https://www.postman.com/) -> [Bruno](https://github.com/usebruno/bruno)
 
 ## App Launchers
+- [dmenu](https://tools.suckless.org/dmenu/) -> [bemenu](https://github.com/Cloudef/bemenu)
 - [rofi](https://github.com/davatorium/rofi) -> [wofi](https://hg.sr.ht/~scoopta/wofi) -> [Walker](https://walkerlauncher.com/), [Vicinae](https://github.com/vicinaehq/vicinae)
 
 ## Books & Personal Libraries
