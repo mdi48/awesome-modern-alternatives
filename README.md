@@ -187,6 +187,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 
 ## Security/Privacy
 - [LastPass](https://www.lastpass.com/) -> [Bitwarden](https://bitwarden.com/) -> [Vaultwarden](https://github.com/dani-garcia/vaultwarden)
+- [SSH](https://en.wikipedia.org/wiki/Secure_Shell) -> [Mosh](https://mosh.org/)
 
 ## Shells
 - [sh](https://en.wikipedia.org/wiki/Bourne_shell) -> [Bash](https://www.gnu.org/software/bash/) -> [Zsh](https://en.wikipedia.org/wiki/Z_shell)
