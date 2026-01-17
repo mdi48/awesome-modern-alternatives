@@ -30,7 +30,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
   - [File Operations](#file-operations)
   - [Keyboards](#keyboards)
   - [Languages (oh boy)](#languages-oh-boy)
-  - [Networking Tools](#networking-tools)
+  - [Networking \& System Tools](#networking--system-tools)
   - [Note-taking](#note-taking)
   - [Operating Systems](#operating-systems)
   - [Package \& Version Managers](#package--version-managers)
@@ -142,8 +142,9 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 - [Perl](https://www.perl.org/) -> [Raku](https://raku.org/)
 - [Ruby](https://www.ruby-lang.org/en/) -> [Crystal](https://crystal-lang.org/)
 
-## Networking Tools
+## Networking & System Tools
 - [ping](https://www.man7.org/linux/man-pages/man8/ping.8.html) -> [gping](https://github.com/orf/gping)
+- [wget](https://www.gnu.org/software/wget/) -> [aria2](https://aria2.github.io/)
 
 ## Note-taking
 - [Evernote](https://evernote.com/) -> [Notion](https://www.notion.com/product) -> [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
