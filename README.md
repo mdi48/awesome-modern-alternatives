@@ -230,6 +230,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 
 ## Web Frameworks
 - [AngularJS](https://angularjs.org/) -> [React](https://react.dev/) -> [Svelte](https://svelte.dev/), [SolidJS](https://www.solidjs.com/)
+- [Bootstrap](https://getbootstrap.com/) -> [Tailwind CSS](https://tailwindcss.com/)
 - [Django](https://github.com/django/django), [Flask](https://github.com/pallets/flask) -> [FastAPI](https://github.com/fastapi/fastapi)
 - [Rails](https://github.com/rails/rails) -> [Phoenix](https://github.com/phoenixframework/phoenix)
 
