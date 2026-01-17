@@ -108,6 +108,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 ## Dev Tools
 - [Docker](https://www.docker.com/) -> [Podman](https://podman.io/)
 - [git (bare)](https://git-scm.com/) -> [tig](https://jonas.github.io/tig/) -> [lazygit](https://github.com/jesseduffield/lazygit)
+- [Github Desktop](https://github.com/apps/desktop) -> [GitButler](https://gitbutler.com/)
 
 ## Diagramming
 - [draw.io](https://www.drawio.com/) -> [Excalidraw](https://github.com/excalidraw/excalidraw) -> [Mermaid](https://github.com/mermaid-js/mermaid)
