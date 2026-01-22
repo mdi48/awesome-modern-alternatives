@@ -220,6 +220,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 ## Storage
 ### Compression
 - [gzip](https://www.gnu.org/software/gzip/) -> [zstd](https://facebook.github.io/zstd/)
+- [tar](https://en.wikipedia.org/wiki/Tar_(computing)) -> [ouch](https://github.com/ouch-org/ouch)*
 - [zip](https://en.wikipedia.org/wiki/ZIP_(file_format)) -> [7zip](https://7-zip.org/)
 
 ## Streaming Services
