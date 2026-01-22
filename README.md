@@ -17,6 +17,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 - [awesome-new-and-improved ](#awesome-new-and-improved-)
   - [Api Testing](#api-testing)
   - [App Launchers](#app-launchers)
+  - [App Development](#app-development)
   - [Books \& Personal Libraries](#books--personal-libraries)
   - [Bootable USB Creation](#bootable-usb-creation)
   - [Bootloaders](#bootloaders)
@@ -24,7 +25,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
   - [Cloud Providers](#cloud-providers)
   - [Config Management](#config-management)
   - [Databases](#databases)
-  - [Dev Tools](#dev-tools)
+  - [Dev Tools (other)](#dev-tools-other)
   - [Diagramming](#diagramming)
   - [Email Clients](#email-clients)
   - [File Managers](#file-managers)
@@ -66,6 +67,9 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 ## App Launchers
 - [dmenu](https://tools.suckless.org/dmenu/) -> [bemenu](https://github.com/Cloudef/bemenu)
 - [rofi](https://github.com/davatorium/rofi) -> [wofi](https://hg.sr.ht/~scoopta/wofi) -> [Walker](https://walkerlauncher.com/), [Vicinae](https://github.com/vicinaehq/vicinae)
+
+## App Development
+- [Electron](https://www.electronjs.org/) -> [Tauri](https://tauri.app/)
 
 ## Books & Personal Libraries
 - [LibraryThing](https://www.librarything.com/) -> [Goodreads](https://www.goodreads.com/) -> [The StoryGraph](https://thestorygraph.com/), [Hardcover](https://thestorygraph.com/)
@@ -112,7 +116,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 - [CouchDB](https://couchdb.apache.org/) -> [MongoDB](https://www.mongodb.com/)
 - [Redis](https://redis.io/) -> [Valkey](https://valkey.io/), [Dragonfly](https://www.dragonflydb.io/)
 
-## Dev Tools
+## Dev Tools (other)
 - [Docker](https://www.docker.com/) -> [Podman](https://podman.io/)
 - [git (bare)](https://git-scm.com/) -> [tig](https://jonas.github.io/tig/) -> [lazygit](https://github.com/jesseduffield/lazygit)
 - [Github Desktop](https://github.com/apps/desktop) -> [GitButler](https://gitbutler.com/)
