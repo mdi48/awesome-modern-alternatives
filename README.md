@@ -32,6 +32,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
   - [File Operations](#file-operations)
   - [Homelab](#homelab)
     - [Monitoring](#monitoring)
+    - [VPNs](#vpns)
   - [Keyboards](#keyboards)
   - [Languages (oh boy)](#languages-oh-boy)
   - [Networking \& System Tools](#networking--system-tools)
@@ -148,6 +149,9 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 ## Homelab
 ### Monitoring
 - [Nagios](https://www.nagios.org/) -> [Prometheus](https://prometheus.io/) + [Grafana](https://grafana.com/)
+
+### VPNs
+- [OpenVPN](https://openvpn.net/) -> [WireGuard](https://www.wireguard.com/), [Tailscale](https://tailscale.com/)*
 
 
 ## Keyboards
