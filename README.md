@@ -70,6 +70,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 
 ## App Development
 - [Electron](https://www.electronjs.org/) -> [Tauri](https://tauri.app/)
+- [React Native](https://reactnative.dev/) -> [Flutter](https://flutter.dev/)
 
 ## Books & Personal Libraries
 - [LibraryThing](https://www.librarything.com/) -> [Goodreads](https://www.goodreads.com/) -> [The StoryGraph](https://thestorygraph.com/), [Hardcover](https://thestorygraph.com/)
