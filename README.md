@@ -30,6 +30,8 @@ of stuff that is easier to use does not mean we should ditch old things entirely
   - [Email Clients](#email-clients)
   - [File Managers](#file-managers)
   - [File Operations](#file-operations)
+  - [Homelab](#homelab)
+    - [Monitoring](#monitoring)
   - [Keyboards](#keyboards)
   - [Languages (oh boy)](#languages-oh-boy)
   - [Networking \& System Tools](#networking--system-tools)
@@ -142,6 +144,11 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 - [cat](https://man7.org/linux/man-pages/man1/cat.1.html) -> [bat](https://github.com/sharkdp/bat)*
 - [du](https://man7.org/linux/man-pages/man1/du.1.html) -> [dust](https://github.com/bootandy/dust)
 - [ls](https://man7.org/linux/man-pages/man1/ls.1.html) -> [eza](https://github.com/eza-community/eza), [lsd](https://github.com/lsd-rs/lsd)
+
+## Homelab
+### Monitoring
+- [Nagios](https://www.nagios.org/) -> [Prometheus](https://prometheus.io/) + [Grafana](https://grafana.com/)
+
 
 ## Keyboards
 - [QWERTY](https://en.wikipedia.org/wiki/QWERTY) -> [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) -> [Colemak](https://colemak.com/) -> [Colemak-DH](https://colemakmods.github.io/mod-dh/)*
