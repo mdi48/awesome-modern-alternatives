@@ -47,6 +47,8 @@ of stuff that is easier to use does not mean we should ditch old things entirely
   - [Shells](#shells)
   - [Social Media](#social-media)
   - [Static Site Generators](#static-site-generators)
+  - [Storage](#storage)
+    - [Compression](#compression)
   - [Streaming Services](#streaming-services)
   - [Terminal Emulators](#terminal-emulators)
   - [Terminal Multiplexers](#terminal-multiplexers)
@@ -214,6 +216,10 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 
 ## Static Site Generators
 - [Jekyll](https://github.com/jekyll/jekyll) -> [Hugo](https://github.com/gohugoio/hugo)*, [Zola](https://github.com/getzola/zola)
+
+## Storage
+### Compression
+- [gzip](https://www.gnu.org/software/gzip/) -> [zstd](https://facebook.github.io/zstd/)
 
 ## Streaming Services
 - [Netflix](https://www.netflix.com) and co. -> [Plex](https://www.plex.tv/) -> [Jellyfin](https://jellyfin.org/)*
