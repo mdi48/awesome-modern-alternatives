@@ -48,6 +48,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
   - [Social Media](#social-media)
   - [Static Site Generators](#static-site-generators)
   - [Storage](#storage)
+    - [Cloud](#cloud)
     - [Compression](#compression)
   - [Streaming Services](#streaming-services)
   - [Terminal Emulators](#terminal-emulators)
@@ -218,6 +219,9 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 - [Jekyll](https://github.com/jekyll/jekyll) -> [Hugo](https://github.com/gohugoio/hugo)*, [Zola](https://github.com/getzola/zola)
 
 ## Storage
+### Cloud
+- [Dropbox](https://www.dropbox.com/) -> [Nextcloud](https://nextcloud.com/files/)
+
 ### Compression
 - [gzip](https://www.gnu.org/software/gzip/) -> [zstd](https://facebook.github.io/zstd/)
 - [tar](https://en.wikipedia.org/wiki/Tar_(computing)) -> [ouch](https://github.com/ouch-org/ouch)*
