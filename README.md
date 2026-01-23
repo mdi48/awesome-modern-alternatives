@@ -62,7 +62,8 @@ of stuff that is easier to use does not mean we should ditch old things entirely
   - [Virtualization](#virtualization)
   - [Web Frameworks](#web-frameworks)
   - [Widget Systems](#widget-systems)
-  - [Window Managers \& Compositors](#window-managers--compositors)
+  - [Windowing Systems](#windowing-systems)
+    - [Window Managers \& Compositors](#window-managers--compositors)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -272,6 +273,8 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 ## Widget Systems
 - [eww](https://github.com/elkowar/eww) -> [Astal](https://github.com/Aylur/astal)/[AGS](https://github.com/Aylur/ags) -> [Quickshell](https://github.com/quickshell-mirror/quickshell)
 
-## Window Managers & Compositors
+## Windowing Systems
+ - [X11](https://x.org/wiki/) -> [Wayland](https://wayland.freedesktop.org/)
+### Window Managers & Compositors
 - [hyprland](https://github.com/hyprwm/Hyprland) -> [niri](https://github.com/YaLTeR/niri)
 - [i3](https://github.com/i3/i3) -> [sway](https://github.com/swaywm/sway)
