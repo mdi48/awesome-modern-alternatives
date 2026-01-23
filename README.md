@@ -63,6 +63,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
   - [Web Frameworks](#web-frameworks)
   - [Widget Systems](#widget-systems)
   - [Windowing Systems](#windowing-systems)
+    - [Desktop Environments](#desktop-environments)
     - [Window Managers \& Compositors](#window-managers--compositors)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -275,6 +276,8 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 
 ## Windowing Systems
  - [X11](https://x.org/wiki/) -> [Wayland](https://wayland.freedesktop.org/)
+### Desktop Environments
+- [GNOME](https://www.gnome.org/) -> [COSMIC](https://system76.com/cosmic)
 ### Window Managers & Compositors
 - [hyprland](https://github.com/hyprwm/Hyprland) -> [niri](https://github.com/YaLTeR/niri)
 - [i3](https://github.com/i3/i3) -> [sway](https://github.com/swaywm/sway)
