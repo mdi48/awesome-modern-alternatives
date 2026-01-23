@@ -280,4 +280,5 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 - [GNOME](https://www.gnome.org/) -> [COSMIC](https://system76.com/cosmic)
 ### Window Managers & Compositors
 - [hyprland](https://github.com/hyprwm/Hyprland) -> [niri](https://github.com/YaLTeR/niri)
-- [i3](https://github.com/i3/i3) -> [sway](https://github.com/swaywm/sway)
+- [i3](https://github.com/i3/i3) -> [sway](https://github.com/swaywm/sway) (Transition from x11 to Wayland)
+- [sway](https://github.com/swaywm/sway) -> [river](https://isaacfreund.com/software/river/) -> [Wayfire](https://wayfire.org/)
