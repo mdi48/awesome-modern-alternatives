@@ -182,9 +182,12 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 
 ## Operating Systems
 - [Debian](https://www.debian.org/)* -> [Arch Linux](https://archlinux.org/)* -> [NixOS](https://nixos.org/)*
+- [macOS](https://www.apple.com/os/macos/) -> [FreeBSD](https://www.freebsd.org/), [Asahi Linux](https://asahilinux.org/)
 - [Windows](https://www.microsoft.com/en-nz/windows) -> [Linux](https://kernel.org/)*
 
 *Now I mean no insult here, as these are the best distros overall imo. Debian is old, and it is undeniably a boomer OS. It takes a long time between releases and the packages are frequently out of date, but it just. Damn. Works. It's like the Toyota Corolla or the Honda Accord of Linux distros: it will last you a lifetime and never fail. Arch is the cool kid of the current day and is completely different: it's like the wild west, everything is constantly changing and you never know what will happen. But that's why it's great: you get the freshest of fresh software right out of the oven, and there's so many packages in the repo + AUR that it's insane. It's also the best distro to use to really learn about Linux as a whole, and you never have to worry about updates thanks to the rolling release model. Finally, there's the cool kid of the future: NixOS. If Debian is a Corolla, NixOS is like some futuristic vehicle that requires a PhD to operate. It's both stable as hell and has tons of fresh packages, but it's arcane knowledge for only the bravest of souls.*
+
+*I need to play around more with BSD cos it's quite cool from my VM experiences with it. Asahi Linux is another interesting project, and I do hope it is able to continue given the recent circumstances.*
 
 *Let's be real, Windows is becoming a self-parody. Embrace Linux, and salvation will be yours./s*
 
