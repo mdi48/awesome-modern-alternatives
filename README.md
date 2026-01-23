@@ -161,7 +161,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 
 ## Languages (oh boy)
 - [C](https://www.c-language.org/) -> [Rust](https://rust-lang.org/) (AAAAAAHHHHHHH I WENT THERE)
-- [Erlang](https://www.erlang.org/) -> [Elixir](https://elixir-lang.org/)
+- [Erlang](https://www.erlang.org/) -> [Elixir](https://elixir-lang.org/) -> [Gleam](https://gleam.run/)
 - [Java](https://openjdk.org/) -> [Kotlin](https://kotlinlang.org/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) -> [TypeScript](https://www.typescriptlang.org/)
 - [MATLAB](https://www.mathworks.com/products/matlab.html) -> [R](https://www.r-project.org/) -> [Python](https://www.python.org/) -> [Julia](https://julialang.org/)
