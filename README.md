@@ -159,6 +159,8 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 ## Keyboards
 - [QWERTY](https://en.wikipedia.org/wiki/QWERTY) -> [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) -> [Colemak](https://colemak.com/) -> [Colemak-DH](https://colemakmods.github.io/mod-dh/)*
 
+*I actually learned how to type in Colemak-DH before I did QWERTY that aside, it's far better and more intuitive just in general. Only complaint is that I wish it was more widely supported, because I ended up having to learn QWERTY due to a lack of decent support in a lot of stuff :(*
+
 ## Languages (oh boy)
 - [C](https://www.c-language.org/) -> [Rust](https://rust-lang.org/) (AAAAAAHHHHHHH I WENT THERE)
 - [Erlang](https://www.erlang.org/) -> [Elixir](https://elixir-lang.org/) -> [Gleam](https://gleam.run/)
