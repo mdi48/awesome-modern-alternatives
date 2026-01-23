@@ -265,7 +265,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 - [Atom](https://atom-editor.cc/) -> [VSCode](https://code.visualstudio.com/) -> [Zed](https://zed.dev/) -> [Lapce](https://github.com/lapce/lapce)
 - [GNU Emacs](https://www.gnu.org/software/emacs/) -> [Spacemacs](https://www.spacemacs.org/) -> [Doom Emacs](https://github.com/doomemacs/doomemacs)
 - [nano](https://www.nano-editor.org/) -> [micro](https://github.com/zyedidia/micro)
-- [vi](https://ex-vi.sourceforge.net/) -> [vim](https://www.vim.org/) -> [neovim](https://neovim.io/)
+- [vi](https://ex-vi.sourceforge.net/) -> [vim](https://www.vim.org/) -> [neovim](https://neovim.io/) -> [LazyVim](https://www.lazyvim.org/)
 
 ## Universal Package Formats
 - [Snaps](https://snapcraft.io/about) -> [AppImages](https://appimage.org/) -> [Flatpak](https://flatpak.org/) -> [Nixpkgs](https://nixos.wiki/wiki/Nixpkgs)*
