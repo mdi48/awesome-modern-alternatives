@@ -198,7 +198,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 - [pyenv](https://github.com/pyenv/pyenv), [rbenv](https://github.com/rbenv/rbenv), [nvm](https://github.com/nvm-sh/nvm), etc. -> [asdf](https://github.com/asdf-vm/asdf) -> [mise](https://github.com/jdx/mise)*
 
 ## PDF Readers
-- [Adobe Acrobat](https://www.adobe.com/acrobat/pdf-reader.html) -> [Evince](https://wiki.gnome.org/Apps/Evince) (rip) -> [Okular](https://okular.kde.org/) -> [zathura](https://pwmt.org/projects/zathura/)
+- [Adobe Acrobat](https://www.adobe.com/acrobat/pdf-reader.html) -> [Evince](https://wiki.gnome.org/Apps/Evince) (rip) -> [Okular](https://okular.kde.org/) -> [MuPDF](https://mupdf.com/) -> [zathura](https://pwmt.org/projects/zathura/)
 
 ## Process Management
 - [top](https://man7.org/linux/man-pages/man1/top.1.html) -> [btop](https://github.com/aristocratos/btop)
