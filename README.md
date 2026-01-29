@@ -211,7 +211,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 - [man](https://man7.org/linux/man-pages/man1/man.1.html) -> [tldr](https://github.com/tldr-pages/tldr) -> [tealdeer](https://github.com/tealdeer-rs/tealdeer) -> [cheat.sh](https://github.com/chubin/cheat.sh)*
 
 ## Reverse Proxies
-- [Port forwarding](https://en.wikipedia.org/wiki/Port_forwarding) -> [Apache](https://httpd.apache.org/) -> [Nginx](https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/) -> [Caddy](https://caddyserver.com/)
+- [Port forwarding](https://en.wikipedia.org/wiki/Port_forwarding) -> [Apache](https://httpd.apache.org/) -> [Nginx](https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/) -> [Caddy](https://caddyserver.com/), [Traefik](https://traefik.io/traefik)
 
 ## RSS Readers
 - [Google Reader (RIP)](https://en.wikipedia.org/wiki/Google_Reader) -> [The Old Reader](https://www.theoldreader.com/en/) -> [Feedly](https://feedly.com/) -> [RSSHub](https://github.com/DIYgod/RSSHub), [Newsboat](https://newsboat.org/)*
