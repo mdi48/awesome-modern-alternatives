@@ -141,7 +141,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 
 
 ## File Managers
-- [Midnight Commander](https://midnight-commander.org/) -> [ranger](https://github.com/ranger/ranger) -> [lf](https://github.com/gokcehan/lf), [nnn](https://github.com/jarun/nnn) -> [superfile](https://github.com/yorukot/superfile) -> [yazi](https://github.com/sxyazi/yazi)*
+- [Midnight Commander](https://midnight-commander.org/) -> [ranger](https://github.com/ranger/ranger) -> [lf](https://github.com/gokcehan/lf), [nnn](https://github.com/jarun/nnn) -> [superfile](https://github.com/yorukot/superfile) -> [yazi](https://github.com/sxyazi/yazi)*, [broot](https://github.com/Canop/broot)
 
 
 ## File Operations
