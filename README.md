@@ -225,7 +225,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 
 ## Search/Find
 - [find](https://man7.org/linux/man-pages/man1/find.1.html) -> [fd](https://github.com/sharkdp/fd)
-- [grep](https://man7.org/linux/man-pages/man1/grep.1.html) -> [ripgrep](https://github.com/BurntSushi/ripgrep)*
+- [grep](https://man7.org/linux/man-pages/man1/grep.1.html) -> [ripgrep](https://github.com/BurntSushi/ripgrep)*, [ugrep](https://github.com/Genivia/ugrep)
 - [locate](https://man7.org/linux/man-pages/man1/locate.1.html) -> [plocate](https://plocate.sesse.net/)
 
 ## Security/Privacy
