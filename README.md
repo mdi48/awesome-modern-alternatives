@@ -48,7 +48,9 @@ of stuff that is easier to use does not mean we should ditch old things entirely
   - [Search Engines](#search-engines)
   - [Search/Find](#searchfind)
   - [Security/Privacy](#securityprivacy)
-  - [Shells](#shells)
+  - [Shell Stuff](#shell-stuff)
+    - [Shells](#shells)
+    - [Prompts](#prompts)
   - [Social Media](#social-media)
   - [Static Site Generators](#static-site-generators)
   - [Storage](#storage)
@@ -232,9 +234,12 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 - [LastPass](https://www.lastpass.com/) -> [Bitwarden](https://bitwarden.com/) -> [Vaultwarden](https://github.com/dani-garcia/vaultwarden)
 - [SSH](https://en.wikipedia.org/wiki/Secure_Shell) -> [Mosh](https://mosh.org/)
 
-## Shells
+## Shell Stuff
+### Shells
 - [sh](https://en.wikipedia.org/wiki/Bourne_shell) -> [Bash](https://www.gnu.org/software/bash/) -> [Zsh](https://en.wikipedia.org/wiki/Z_shell)
 - [fish](https://fishshell.com/) -> [Nushell](https://www.nushell.sh/)
+### Prompts
+- [powerlevel10k](https://github.com/romkatv/powerlevel10k)* -> [starship](https://starship.rs/) -> [Oh My Posh](https://ohmypo.sh/)
 
 ## Social Media
 - The App Formerly Known as Twitter -> [Bluesky](https://bsky.social/about) -> [Mastodon](https://joinmastodon.org/)
