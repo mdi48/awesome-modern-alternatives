@@ -146,7 +146,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 
 ## File Operations
 - [cat](https://man7.org/linux/man-pages/man1/cat.1.html) -> [bat](https://github.com/sharkdp/bat)*
-- [du](https://man7.org/linux/man-pages/man1/du.1.html) -> [dust](https://github.com/bootandy/dust)
+- [du](https://man7.org/linux/man-pages/man1/du.1.html) -> [dust](https://github.com/bootandy/dust), [dua-cli](https://github.com/Byron/dua-cli)
 - [ls](https://man7.org/linux/man-pages/man1/ls.1.html) -> [eza](https://github.com/eza-community/eza), [lsd](https://github.com/lsd-rs/lsd)
 
 ## Homelab
