@@ -204,7 +204,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 - [Adobe Acrobat](https://www.adobe.com/acrobat/pdf-reader.html) -> [Evince](https://wiki.gnome.org/Apps/Evince) (rip) -> [Okular](https://okular.kde.org/) -> [MuPDF](https://mupdf.com/) -> [zathura](https://pwmt.org/projects/zathura/)
 
 ## Process Management
-- [top](https://man7.org/linux/man-pages/man1/top.1.html) -> [btop](https://github.com/aristocratos/btop)
+- [top](https://man7.org/linux/man-pages/man1/top.1.html) -> [btop](https://github.com/aristocratos/btop) -> [bottom (btm)](https://github.com/ClementTsang/bottom)
 
 ## Productivity
 - [cd](https://man7.org/linux/man-pages/man1/cd.1p.html) spam -> [zoxide](https://github.com/ajeetdsouza/zoxide)*
