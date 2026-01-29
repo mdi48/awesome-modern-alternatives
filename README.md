@@ -32,6 +32,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
   - [File Operations](#file-operations)
   - [Homelab](#homelab)
     - [Monitoring](#monitoring)
+    - [Reverse Proxies \& Web Servers](#reverse-proxies--web-servers)
     - [VPNs](#vpns)
   - [Keyboards](#keyboards)
   - [Languages (oh boy)](#languages-oh-boy)
@@ -42,7 +43,6 @@ of stuff that is easier to use does not mean we should ditch old things entirely
   - [PDF Readers](#pdf-readers)
   - [Process Management](#process-management)
   - [Productivity](#productivity)
-  - [Reverse Proxies](#reverse-proxies)
   - [RSS Readers](#rss-readers)
   - [Screen Recording](#screen-recording)
   - [Search Engines](#search-engines)
@@ -153,6 +153,9 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 ### Monitoring
 - [Nagios](https://www.nagios.org/) -> [Prometheus](https://prometheus.io/) + [Grafana](https://grafana.com/)
 
+### Reverse Proxies & Web Servers
+- [Port forwarding](https://en.wikipedia.org/wiki/Port_forwarding) -> [Apache](https://httpd.apache.org/) -> [Nginx](https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/) -> [Caddy](https://caddyserver.com/), [Traefik](https://traefik.io/traefik)
+
 ### VPNs
 - [OpenVPN](https://openvpn.net/) -> [WireGuard](https://www.wireguard.com/), [Tailscale](https://tailscale.com/)*
 
@@ -210,8 +213,6 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 - [fzf](https://github.com/junegunn/fzf) -> [skim](https://github.com/skim-rs/skim)
 - [man](https://man7.org/linux/man-pages/man1/man.1.html) -> [tldr](https://github.com/tldr-pages/tldr) -> [tealdeer](https://github.com/tealdeer-rs/tealdeer) -> [cheat.sh](https://github.com/chubin/cheat.sh)*
 
-## Reverse Proxies
-- [Port forwarding](https://en.wikipedia.org/wiki/Port_forwarding) -> [Apache](https://httpd.apache.org/) -> [Nginx](https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/) -> [Caddy](https://caddyserver.com/), [Traefik](https://traefik.io/traefik)
 
 ## RSS Readers
 - [Google Reader (RIP)](https://en.wikipedia.org/wiki/Google_Reader) -> [The Old Reader](https://www.theoldreader.com/en/) -> [Feedly](https://feedly.com/) -> [RSSHub](https://github.com/DIYgod/RSSHub), [Newsboat](https://newsboat.org/)*
