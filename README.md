@@ -39,6 +39,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
   - [Note-taking](#note-taking)
   - [Operating Systems](#operating-systems)
   - [Package \& Version Managers](#package--version-managers)
+  - [PDF Readers](#pdf-readers)
   - [Process Management](#process-management)
   - [Productivity](#productivity)
   - [Reverse Proxies](#reverse-proxies)
@@ -195,6 +196,9 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 - [npm](https://github.com/npm/cli) -> [yarn](https://github.com/yarnpkg/yarn) -> [pnpm](https://github.com/pnpm/pnpm) -> [bun](https://github.com/oven-sh/bun)
 - [pip](https://pip.pypa.io/en/stable/) -> [conda](https://docs.conda.io/projects/conda/en/stable/) -> [uv](https://github.com/astral-sh/uv)
 - [pyenv](https://github.com/pyenv/pyenv), [rbenv](https://github.com/rbenv/rbenv), [nvm](https://github.com/nvm-sh/nvm), etc. -> [asdf](https://github.com/asdf-vm/asdf) -> [mise](https://github.com/jdx/mise)*
+
+## PDF Readers
+- [Adobe Acrobat](https://www.adobe.com/acrobat/pdf-reader.html) -> [Evince](https://wiki.gnome.org/Apps/Evince) (rip) -> [Okular](https://okular.kde.org/) -> [zathura](https://pwmt.org/projects/zathura/)
 
 ## Process Management
 - [top](https://man7.org/linux/man-pages/man1/top.1.html) -> [btop](https://github.com/aristocratos/btop)
