@@ -206,6 +206,7 @@ of stuff that is easier to use does not mean we should ditch old things entirely
 - [Adobe Acrobat](https://www.adobe.com/acrobat/pdf-reader.html) -> [Evince](https://wiki.gnome.org/Apps/Evince) (rip) -> [Okular](https://okular.kde.org/) -> [MuPDF](https://mupdf.com/) -> [zathura](https://pwmt.org/projects/zathura/)
 
 ## Process Management
+- [kill](https://man7.org/linux/man-pages/man1/kill.1.html), [killall](https://man7.org/linux/man-pages/man1/killall.1.html) -> [pkill](https://linux.die.net/man/1/pkill) -> [fkill](https://github.com/sindresorhus/fkill-cli)
 - [top](https://man7.org/linux/man-pages/man1/top.1.html) -> [btop](https://github.com/aristocratos/btop) -> [bottom (btm)](https://github.com/ClementTsang/bottom)
 
 ## Productivity
